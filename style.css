@@ -1,0 +1,31 @@
+body {
+	font-family:sans-serif;
+	background-color: orange;
+	height:5000px;
+}
+
+#summary {
+	color: purple;
+}
+
+#Pulaski {
+	border: 20px solid black;
+	border-top-color:red;
+	border-bottom-color:red;
+}
+#epic_sax_guy{
+	position: fixed;
+	top:50%;
+	right:25%;
+	width:80px;
+	height:80px;
+  padding: 20px;
+	margin-top:-250px;
+	margin-left:-250px; 
+}
+#Band{
+	text-decoration:underline;
+}
+.inline{
+	display:inline;
+}
